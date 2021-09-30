@@ -28,6 +28,8 @@
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/typeorm": "^8.0.2",
     "bcryptjs": "^2.4.3",
+    "class-transformer": "^0.4.0",
+    "class-validator": "^0.13.1",
     "mysql2": "^2.3.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
